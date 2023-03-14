@@ -6,5 +6,7 @@ namespace program
 {
     class newclass
     {
+
+
     }
 }
